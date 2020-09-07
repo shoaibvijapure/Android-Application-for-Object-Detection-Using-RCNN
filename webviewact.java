@@ -1,6 +1,3 @@
-//***********webviewact.java
-
-
 package com.sh1r0.caffe_android_demo;
 
 import android.app.Activity;
